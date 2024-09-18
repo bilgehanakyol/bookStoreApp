@@ -48,7 +48,7 @@ const BooksTable = ({books}) => {
                     </div>
                 </td>
             </tr>
-        ) )}
+        ))}
     </tbody>
 </table>
   )
